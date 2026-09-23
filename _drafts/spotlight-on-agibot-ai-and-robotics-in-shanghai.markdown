@@ -20,13 +20,13 @@ description: Explore AGIBOT’s story, China’s role in AI and robotics, and In
 ![AGIBOT-X2-_by_JxFile_MWC26.jpg](/uploads/AGIBOT-X2-_by_JxFile_MWC26.jpg)
 <small><em>AGIBOT X2 at MWC 2026. Photograph: JJxFile / Jorge Jaramillo, via Wikimedia Commons, CC BY 4.0.</em></small>
 
-*Insider London has now partnered with AGIBOT as part of our [Shanghai programme](https://www.insiderlondon.com/asia/shanghai/). This week we are bringing this story of engineering and entrepreneurship into our exploration of China’s changing economy.*
+*Insider London has now partnered with [AGIBOT](https://www.agibot.com/) as part of our [Shanghai programme](https://www.insiderlondon.com/asia/shanghai/). This week we are bringing this story of engineering and entrepreneurship into our exploration of China’s changing economy.*
 
 #### From Personal Projects to Humanoid Robots
 
-Before Peng Zhihui co-founded AGIBOT, he was sharing inventions online: a self-balancing bicycle, an intricate robotic arm and other projects that attracted a following among China’s engineering enthusiasts. Huawei recruited him through its “Genius Youth” programme, but in late 2022 he left to pursue an ambition he had held since childhood: building a humanoid robot.
+Before Peng Zhihui co-founded **AGIBOT**, he was sharing inventions online: a self-balancing bicycle, an intricate robotic arm and other projects that attracted a following among China’s engineering enthusiasts. Huawei recruited him through its “Genius Youth” programme, but in late 2022 he left to pursue an ambition he had held since childhood: building a humanoid robot.
 
-In 2023, Peng and former Huawei executive Deng Taihua established [AGIBOT](https://www.agibot.com/) in Shanghai. Within months, they unveiled their first humanoid prototype. Their ambition was to develop machines that could understand instructions, move through human environments and handle everyday objects.
+In 2023, Peng and former Huawei executive Deng Taihua established **AGIBOT** in Shanghai. Within months, they unveiled their first humanoid prototype. Their ambition was to develop machines that could understand instructions, move through human environments and handle everyday objects.
 
 #### AI, Robotics and China’s Position
 
@@ -45,6 +45,4 @@ AGIBOT develops robot bodies, AI models and the training data needed to connect 
 Its commercial range also extends across several markets. AGIBOT offers humanoids for interaction and entertainment, industrial robots for handling tasks, and commercial cleaning machines. In June 2026, the company [announced production of its 15,000th robot](https://www.agibot.com/article/231/detail/82.html), an industrial G2 model. That milestone demonstrates manufacturing scale; long-term competitiveness will depend on how effectively its machines perform in customers’ workplaces.
 
 
-*AGIBOT provides a way to explore the questions shaping this industry. How do engineers teach a machine a physical skill? Which jobs justify investment in robotics? How will businesses measure the benefits, and what new skills will employees need?
-
-To find out more about incorporating robotics, AI and Chinese innovation into a programme for your group, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) or visit [Insider London](https://www.insiderlondon.com/).*
+*AGIBOT provides a way to explore the questions shaping this industry. How do engineers teach a machine a physical skill? Which jobs justify investment in robotics? How will businesses measure the benefits, and what new skills will employees need? To find out more about incorporating robotics, AI and Chinese innovation into a programme for your group, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) or visit [Insider London](https://www.insiderlondon.com/).*
