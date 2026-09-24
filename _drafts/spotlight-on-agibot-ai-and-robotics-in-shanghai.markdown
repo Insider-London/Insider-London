@@ -15,12 +15,15 @@ tags:
 - Chinese innovation
 description: Explore AGIBOT’s story, China’s role in AI and robotics, and Insider
   London’s partnership with the company as part of our Shanghai programme.
+excerpt_separator: "<!--read-->"
 ---
 
 ![AGIBOT-X2-_by_JxFile_MWC26.jpg](/uploads/AGIBOT-X2-_by_JxFile_MWC26.jpg)
 <small><em>AGIBOT X2 at MWC 2026. Photograph: JJxFile / Jorge Jaramillo, via Wikimedia Commons, CC BY 4.0.</em></small>
 
 *Insider London has now partnered with [AGIBOT](https://www.agibot.com/) as part of our [China programme](https://www.insiderlondon.com/asia/china/). This week we are bringing this story of engineering and entrepreneurship into our exploration of China’s changing economy.*
+
+<!--read-->
 
 #### From Personal Projects to Humanoid Robots
 
