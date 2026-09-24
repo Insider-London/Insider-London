@@ -27,6 +27,7 @@ description: 'Explore Shanghai’s AI Tower in West Bund, where students see AI,
   robotics and VR start-ups inside China’s innovation ecosystem.
 
 '
+excerpt_separator: "<!--read-->"
 ---
 
 <div class="c-video c-video--inline" style="margin-bottom: 24px">
@@ -40,7 +41,9 @@ description: 'Explore Shanghai’s AI Tower in West Bund, where students see AI,
   </video>
 </div>
 
-This week, we take a look at **Shanghai’s AI Tower** in the West Bund innovation cluster, part of Insider London’s China Programme. The visit explores how artificial intelligence, MedTech, robotics and immersive technologies are being developed through a wider ecosystem of companies, universities, start-ups and applied demonstrations.
+*This week, we take a look at **Shanghai’s AI Tower** in the West Bund innovation cluster, part of Insider London’s China Programme. The visit explores how artificial intelligence, MedTech, robotics and immersive technologies are being developed through a wider ecosystem of companies, universities, start-ups and applied demonstrations.*
+
+<!--read-->
 
 #### From waterfront regeneration to technology ecosystem
 
