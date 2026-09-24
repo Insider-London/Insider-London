@@ -43,7 +43,7 @@ In the international arena of the AI research, China led in research publication
 
 #### Where AGIBOT Fits
 
-AGIBOT develops robot bodies, AI models and the training data needed to connect them. Its [AgiBot World research project](https://arxiv.org/abs/2503.06669) assembled more than one million recorded task trajectories across 217 tasks, which helps train robots to manipulate objects, and their release of data, tools and models allows other researchers to build on the work.
+AGIBOT develops robot bodies, AI models and the training data needed to connect them. Its [AgiBot World research project](https://arxiv.org/abs/2503.06669) assembled more than one million recorded task trajectories across 217 tasks, helping to train robots to manipulate objects, as well as releasing data, tools and models to allow other researchers to build on the work.
 
 Its commercial range also extends across several markets. AGIBOT offers humanoids for interaction and entertainment, industrial robots for handling tasks, and commercial cleaning machines. In June 2026, the company [announced production of its 15,000th robot](https://www.agibot.com/article/231/detail/82.html), an industrial G2 model. That milestone demonstrates manufacturing scale; long-term competitiveness will depend on how effectively its machines perform in customers’ workplaces.
 
