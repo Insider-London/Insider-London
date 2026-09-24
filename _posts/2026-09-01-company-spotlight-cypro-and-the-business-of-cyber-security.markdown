@@ -19,12 +19,15 @@ tags:
 - Insider London
 description: Discover how CyPro helps growing businesses manage cyber risk, adopt
   AI securely and build stronger protection through its partnership with Insider London
+excerpt_separator: "<!--read-->"
 ---
 
 ![CyPro Cyber Security Manager Leonie Witte](/uploads/20260826_150605-EDIT.jpg)
 <small><em>CyPro Cyber Security Manager Leonie Witte described a journey that many businesses are already taking<em><small>
 
-This week we're having a look at [CyPro](https://cypro.co.uk/about/), the Canary Wharf based cyber security company helping growing businesses expand securely; and our partner for company visits. 
+*This week we're having a look at [CyPro](https://cypro.co.uk/about/), the Canary Wharf based cyber security company helping growing businesses expand securely; and our partner for company visits.* 
+
+<!--read-->
 
 #### A Different Kind of Cyber Security Company
 
