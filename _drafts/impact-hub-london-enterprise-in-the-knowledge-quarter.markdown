@@ -20,7 +20,7 @@ description: Explore Impact Hub London’s story, its support for social enterpr
 excerpt_separator: "<!--read-->"
 ---
 
-[impact hub - 2](/uploads/impact%20hub%20-%202)
+![impact hub - 2](/uploads/impact%20hub%20-%202)
 
 This week, we’re taking a closer look at **Impact Hub** and the entrepreneurs working within its community. Its Euston home connects with a wider story about the *Knowledge Quarter*, where universities, research institutes, cultural organisations and businesses sit within walking distance of one another.
 
