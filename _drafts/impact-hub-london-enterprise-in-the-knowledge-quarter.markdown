@@ -36,7 +36,7 @@ The organisation became Impact Hub London in 2023. A year later, it opened its [
 
 #### Inside the Knowledge Quarter
 
-The [Knowledge Quarter](https://www.knowledgequarter.london/) brings together organisations around King’s Cross, Euston Road and Bloomsbury. Established as a partnership in 2014, it connects institutions working across research, education, technology and culture, including the British Library, UCL, Wellcome and the Francis Crick Institute.
+The [Knowledge Quarter](https://www.knowledgequarter.london/) brings together organisations around King’s Cross, Euston Road and Bloomsbury. Established as a partnership in 2014, it connects institutions working across research, education, technology and culture, including the British Library, UCL, Wellcome Trust and the Francis Crick Institute.
 
 A knowledge cluster develops when organisations with different expertise gather in the same area. Researchers, entrepreneurs and cultural institutions may share skills, facilities and contacts. Being close enough to meet regularly can make those exchanges easier, although relationships still need time and effort.
 
