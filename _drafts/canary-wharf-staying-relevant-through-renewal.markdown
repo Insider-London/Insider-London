@@ -1,6 +1,22 @@
 ---
 title: 'Canary Wharf: Staying Relevant Through Renewal'
 date: 2026-10-27 09:41:00 Z
+categories:
+- Finance
+- Sustainability
+- Business
+tags:
+- Canary Wharf
+- Canary Wharf regeneration
+- JPMorganChase
+- Citi Tower refurbishment
+- PwC One Eden
+- sustainable offices
+- building reuse
+- London financial district
+- Canary Wharf walking tour
+- Insider London
+- Business visits
 description: Explore Canary Wharf’s renewal, from JPMorganChase’s new headquarters
   plans to Citi’s tower refurbishment and PwC’s planned move to One Eden.
 excerpt_separator: "<!--read-->"
