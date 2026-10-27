@@ -46,6 +46,7 @@ Citi's **$1.5 billion** project is firm evidence of its lasting commitment to th
 The refurbishment began in 2023. Citi says the new layout and technology will help teams work together and serve clients. Its investment also supported UK suppliers and specialist manufacturers. For Canary Wharf, keeping a major employer involves making familiar premises work for changing needs. A building retains its place in the skyline while becoming quite different inside.
 
 ![jpmorgan-tower-london_.jpg](/uploads/jpmorgan-tower-london_.jpg)
+
 <small><em>An artist's impression of the tower's lower roof deck, looking out to central London. Pic: JPMorgan Chase</em></small>
 
 #### PwC: a new future for One Eden
