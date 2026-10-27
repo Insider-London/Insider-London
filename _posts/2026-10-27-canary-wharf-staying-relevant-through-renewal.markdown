@@ -50,9 +50,13 @@ The refurbishment began in 2023. Citi says the new layout and technology will he
 
 #### PwC: a new future for One Eden
 
-PwC’s plans extend the story beyond banking to accountancy and consulting services. In July 2026, [the firm announced a preliminary agreement, known as heads of terms,](https://www.pwc.co.uk/press-room/press-releases/corporate-news/one-eden-canary-wharf.html) for 350,000 square feet at One Eden, formerly 33 Canada Square. The move is planned for 2030, ahead of refurbishment at its Embankment Place offices. PwC will also continue to occupy More London.
+In July 2026, [PwC announced a preliminary agreement, known as heads of terms,](https://www.pwc.co.uk/press-room/press-releases/corporate-news/one-eden-canary-wharf.html) for 350,000 square feet at One Eden, formerly 33 Canada Square. The move is planned for 2030, ahead of refurbishment at its Embankment Place offices. PwC will also continue to occupy More London in Westminster.
 
 One Eden connects that commercial decision with the environmental case for renewal. [Canary Wharf Group’s refurbishment plans](https://cwg.com/press-release/cwg-launches-one-eden-300326/) would retain 97% of the existing foundations and building structure, preserving more than 62,000 tonnes of concrete. The building is designed to run entirely on electricity, using heat pumps. PwC has highlighted *flexibility, facilities and sustainability* among the reasons for choosing One Eden. 
+
+#### Keeping Canary Wharf relevant
+
+Canary Wharf’s resilience lies in its ability to adapt as businesses and working life change. From proposed headquarters to refurbished offices, these projects make that process visible. They show a district being reshaped over time, with investment directed towards keeping it a place where businesses want to grow and people want to work.
 
 *Explore the district with [Insider London’s Canary Wharf walking tour](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/) to see how finance, architecture and regeneration meet on the ground.*
 
