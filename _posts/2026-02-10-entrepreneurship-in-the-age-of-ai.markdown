@@ -20,11 +20,11 @@ description: Discover Insider London’s new AI & Entrepreneurship workshop for 
   startup thinking with AI tools to develop and pitch real-world business ideas.
 ---
 
-![pexels-rdne-7414216.jpg](/uploads/pexels-rdne-7414216.jpg)
+![AI Workshop](/uploads/20261023_114916.JPG)
 
-Today’s students aren’t just preparing for jobs; many are working on turning their ideas into ventures. However, the tools of entrepreneurship are advancing rapidly. Business plans are no longer created in isolation; they are shaped through collaboration, real-time data, and increasingly, AI.
+Today’s students aren’t just preparing for jobs; many are working on turning their ideas into ventures. However, the tools of entrepreneurship are advancing rapidly, and business plans are no longer created in isolation; they are shaped through collaboration, real-time data, and increasingly, AI.
 
-That’s the idea behind our new AI & Entrepreneurship Workshop, led by innovation strategist [Mia Jafari](https://www.linkedin.com/in/miajafari). This practical session helps students transform a business idea into a compelling a pitch deck — the kind entrepreneurs use daily to share their vision with investors, partners, or clients.
+That’s the idea behind our new AI & Entrepreneurship Workshop, led by innovation strategist [Mia Jafari](https://www.linkedin.com/in/miajafari). This practical session helps students transform a business idea into a compelling pitch deck — the kind entrepreneurs use daily to share the vision with investors, partners, or clients.
 
 
 #### Entrepreneurship is Changing
@@ -55,9 +55,11 @@ The startup world moves quickly, and young people are already exploring it. Rece
 
 This workshop taps into that energy. It gives students a real-world entrepreneurial experience in a safe, collaborative setting. They get to test ideas, learn from feedback, and build a pitch they can be proud of, whether they want to launch a business or simply better understand how innovation works in practice.
 
-For students preparing for university, internships, employment or entrepreneurial pathways, [understanding AI is no longer optional](https://www.weforum.org/stories/2025/05/why-ai-literacy-is-now-a-core-competency-in-education/). Equally, simply knowing how to use AI tools is not enough. The challenge and the opportunity lie in learning how to combine AI capabilities with human originality and clear communication.
+For students preparing for university, internships, employment or entrepreneurial pathways, [understanding AI is no longer optional](https://www.weforum.org/stories/2025/05/why-ai-literacy-is-now-a-core-competency-in-education/). Simply knowing how to use AI tools isn't enough, as the challenge and the opportunity lie in learning how to combine AI capabilities with human originality and clear communication.
 
-It’s not a coding session. It’s a modern entrepreneurship bootcamp, powered by the tools founders are already using today.
+Rather than a coding session, it’s a modern entrepreneurship bootcamp, powered by the tools start-up founders have been using already.
+
+[20261022_160059.JPG](/uploads/20261022_160059.JPG)
 
 #### Who Is Leading the Workshop?
 
