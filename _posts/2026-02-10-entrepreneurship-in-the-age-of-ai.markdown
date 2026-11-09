@@ -59,7 +59,7 @@ For students preparing for university, internships, employment or entrepreneuria
 
 Rather than a coding session, it’s a modern entrepreneurship bootcamp, powered by the tools start-up founders have been using already.
 
-[20261022_160059.JPG](/uploads/20261022_160059.JPG)
+![20261022_160059.JPG](/uploads/20261022_160059.JPG)
 
 #### Who Is Leading the Workshop?
 
