@@ -32,7 +32,7 @@ In 2008, [Matt Biddulph mapped just 15 nearby technology businesses](https://www
 
 That brings us to Colt. On 12 October, the company announced [further investment in its global network](https://www.colt.net/it/resources/insights/colt-expands-global-network-investment-to-power-the-next-wave-of-ai-growth), expanding its reach across North America, Africa, Asia and the Middle East alongside European upgrades. The programme includes a new long-distance route in Japan and fibre improvements between Marseille and Milan. Colt says its network connects 1,100 data centres worldwide.
 
-Those connections give us a different way of looking at Tech City. We can walk between offices in a few minutes, but the services developed inside them may depend on computing resources across several countries. Data needs to travel between customers, business systems and the facilities processing it. The network is part of what makes a service feel immediate, even when the work happens far away.
+Those connections give us a different way of looking at Tech City. We can walk between offices in a few minutes, but the services developed inside them may depend on computing resources across several countries. Data must travel between customers, business systems, and the facilities that process it. The network helps make a service feel immediate, even when the work happens far away.
 
 Colt’s Joe Scattareggia describes the task as “connecting data, cloud and compute at the scale AI demands.” For a business adding AI to an existing service, that raises practical questions. Can information move quickly enough? Will the connection remain dependable as usage grows? What happens when a route is disrupted?
 
@@ -42,7 +42,7 @@ We’re used to reading the area’s development through new buildings and famil
 
 We can see the uses for that wider infrastructure in the companies associated with Tech City. Monzo uses [generative AI to interpret customer explanations and supporting documents](https://monzo.com/blog/combining-generative-ai-and-predictive-modelling-to-fight-financial-crime), helping its fraud models and human investigators assess suspicious activity. Wise applies [AI to fraud prevention and customer support](https://owners.wise.com/investor-topics), while Farfetch was already using [machine learning for personalised recommendations](https://blog.vespa.ai/navigating-in-the-new-AI-driven-E-commerce-landscape/) by 2024.
 
-The connections between these businesses can be quite direct: [Monzo’s main banking systems run on Amazon Web Services](https://aws.amazon.com/solutions/case-studies/monzo-case-study/). Meanwhile, [Barclays Eagle Labs connects founders with support and investors](https://www.barclays.co.uk/business-banking/sectors/innovation/), including those developing AI businesses. Together, these examples bring the infrastructure story back to familiar activities: shopping, sending money and building a company.
+Together, these examples bring the infrastructure story back to familiar activities: shopping, sending money and building a company.
 
 Younger users are already part of this changing picture. In 2025, [79% of UK 16–24-year-olds used AI tools](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed), compared with 54% of adults overall. Alongside that deliberate use, AI is becoming part of services people use without necessarily noticing the technology underneath.
 
