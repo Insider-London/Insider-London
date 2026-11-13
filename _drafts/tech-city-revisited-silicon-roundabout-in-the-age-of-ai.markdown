@@ -30,7 +30,6 @@ We’re revisiting Silicon Roundabout in the age of AI, and the changes begin be
 
 In 2008, [Matt Biddulph mapped just 15 nearby technology businesses](https://www.wired.com/story/oral-history-london-tech-scene/). Two years later, the government’s [Tech City initiative](https://www.gov.uk/government/news/pm-announces-east-london-tech-city) attached national ambitions to this corner of east London. As we return to the area today, AI gives us a reason to look again at what supports the businesses growing here.
 
-
 <!--read-->
 
 #### Colt and the connections behind AI
@@ -43,9 +42,12 @@ Colt’s Joe Scattareggia describes the task as “connecting data, cloud and co
 
 Colt’s expansion means investing in connections allows digital businesses to operate beyond their office walls. Its announcement concerns a global network, and that international reach is precisely what makes it relevant to a neighbourhood built around businesses with ambitions beyond London.
 
-![pexels-brett-sayles-4373998-Detailed view of fiber optic cables connected in a data center rack, showcasing modern networking technology](/uploads/pexels-brett-sayles-4373998.jpg)
+![pexels-brett-sayles-4373998-Detailed view of fibre optic cables connected in a data centre rack, showcasing modern networking technology](/uploads/pexels-brett-sayles-4373998.jpg)
 <em>Photo: Brett Sayles via Pexels.</em>
 
+#### Truman Brewery and the space behind our screens
+
+Truman Brewery estate brings another part of this infrastructure story into view. In July 2026, the government [approved a 5,200-square-metre data centre at 47 Grey Eagle Street](https://www.gov.uk/government/publications/recovered-appeal-sites-on-and-around-the-site-of-truman-brewery-tower-hamlets-london-refs-3367041-3367172-3367179-and-3367369-29-july-2026), alongside the wider redevelopment. Intended to provide shared server space principally for financial businesses, the facility would add capacity to store and process data close to its users. Alongside Colt’s network expansion, it gives us another way to understand the physical requirements of a digital economy. AI’s economic impact is also attracting attention internationally: in September 2025, [Goldman Sachs estimated that AI had added around $160 billion to US real economic activity since 2022](https://www.businessinsider.com/ai-tech-economy-us-gdp-boost-chips-blindspot-goldman-sachs-2025-9), equivalent to approximately 0.7% of US GDP. Back in East London, the brewery proposals bring the discussion down to street level, where demand for computing space is becoming part of the debate about the neighbourhood’s future.
 
 #### Young users and everyday AI
 
