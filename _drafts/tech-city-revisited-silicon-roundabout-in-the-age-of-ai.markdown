@@ -20,6 +20,7 @@ tags:
 - Tech City tours
 description: Revisit London’s Silicon Roundabout in the age of AI, exploring Colt’s
   network expansion and the digital infrastructure shaping Tech City’s future.
+excerpt_separator: "<!--read-->"
 ---
 
 ![pexels-ruby-baker-Shoreditch cityscape blending modern architecture with vintage charm.](/uploads/pexels-ruby-baker-2150616273-31255313.jpg)
@@ -28,6 +29,9 @@ description: Revisit London’s Silicon Roundabout in the age of AI, exploring C
 We’re revisiting Silicon Roundabout in the age of AI, and the changes begin before we leave Old Street station. The [roundabout has become a peninsula](https://bregroup.com/case-studies/old-st-roundabout-awarded-breeam-infrastructure-excellent), with new entrances and public space. Its familiar nickname has outlasted the road layout that inspired it.
 
 In 2008, [Matt Biddulph mapped just 15 nearby technology businesses](https://www.wired.com/story/oral-history-london-tech-scene/). Two years later, the government’s [Tech City initiative](https://www.gov.uk/government/news/pm-announces-east-london-tech-city) attached national ambitions to this corner of east London. As we return to the area today, AI gives us a reason to look again at what supports the businesses growing here.
+
+
+<!--read-->
 
 #### Colt and the connections behind AI
 
