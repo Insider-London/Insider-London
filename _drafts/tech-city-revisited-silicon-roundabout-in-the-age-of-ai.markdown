@@ -22,7 +22,8 @@ description: Revisit London’s Silicon Roundabout in the age of AI, exploring C
   network expansion and the digital infrastructure shaping Tech City’s future.
 ---
 
-![pexels-ruby-baker-2150616273-31255313.jpg](/uploads/pexels-ruby-baker-2150616273-31255313.jpg)
+![pexels-ruby-baker-Shoreditch cityscape blending modern architecture with vintage charm.](/uploads/pexels-ruby-baker-2150616273-31255313.jpg)
+<em>Photo: Ruby Baker via Pexels.</em>
 
 We’re revisiting Silicon Roundabout in the age of AI, and the changes begin before we leave Old Street station. The [roundabout has become a peninsula](https://bregroup.com/case-studies/old-st-roundabout-awarded-breeam-infrastructure-excellent), with new entrances and public space. Its familiar nickname has outlasted the road layout that inspired it.
 
@@ -38,22 +39,25 @@ Colt’s Joe Scattareggia describes the task as “connecting data, cloud and co
 
 We’re used to reading the area’s development through new buildings and familiar company names. Colt’s expansion adds another layer to that picture: the investment in connections that allows digital businesses to operate beyond their office walls. Its announcement concerns a global network, and that international reach is precisely what makes it relevant to a neighbourhood built around businesses with ambitions beyond London.
 
+![pexels-brett-sayles-4373998-Detailed view of fiber optic cables connected in a data center rack, showcasing modern networking technology](/uploads/pexels-brett-sayles-4373998.jpg)
+<em>Photo: Brett Sayles via Pexels.</em>
+
 #### AI across the neighbourhood
 
 We can see the uses for that wider infrastructure in the companies associated with Tech City. Monzo uses [generative AI to interpret customer explanations and supporting documents](https://monzo.com/blog/combining-generative-ai-and-predictive-modelling-to-fight-financial-crime), helping its fraud models and human investigators assess suspicious activity. Wise applies [AI to fraud prevention and customer support](https://owners.wise.com/investor-topics), while Farfetch was already using [machine learning for personalised recommendations](https://blog.vespa.ai/navigating-in-the-new-AI-driven-E-commerce-landscape/) by 2024.
 
-Together, these examples bring the infrastructure story back to familiar activities: shopping, sending money and building a company.
+
+#### Young users and everyday AI
 
 Younger users are already part of this changing picture. In 2025, [79% of UK 16–24-year-olds used AI tools](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed), compared with 54% of adults overall. Alongside that deliberate use, AI is becoming part of services people use without necessarily noticing the technology underneath.
 
-#### Growth needs power
+A routine web search provides another point of contact. In the same research, 62% of internet users aged 16–24 said they read AI-generated search summaries often or always. These summaries draw together information from across the web and present it within search results. Even among people who did not use AI chatbots, 54% said they read these summaries at least sometimes, showing how interaction with AI extends beyond opening a dedicated chatbot.
 
-As we follow Colt’s network story beyond Shoreditch, we also encounter the physical limits of digital expansion. In October, [power delays prompted Microsoft to withdraw from an agreement for a data centre in Loughton](https://www.reuters.com/business/media-telecom/microsoft-pulls-out-uk-data-center-deal-with-nscale-telegraph-reports-2026-10-18/), where electricity supply was not expected until the 2030s. Its wider partnership with developer Nscale continued.
-
-It is a reminder that network capacity, computing facilities and electricity must develop together. A new application can reach users quickly; the infrastructure supporting its growth may take years to deliver. Colt’s investment addresses the connections within that larger system, whose expansion also depends on power, planning and construction.
 
 #### Revisiting Tech City with us
 
 Returning to Silicon Roundabout, we can trace a story from a small cluster of startups to businesses connected across the world. Colt’s news gives us a timely way into the next chapter, showing how the area’s AI ambitions reach beyond the buildings we pass.
 
-Join us on Insider London’s [Silicon Roundabout and Tech City walking tours](https://www.insiderlondon.com/london/educational-tours/silicon-roundabout-and-tech-city-tour/) to explore that changing story. To arrange a tour for your university or business group, contact [contact@insiderlondon.com](mailto:contact@insiderlondon.com).
+For younger users and the rest of us, AI’s most visible features are the tools on our screens. The fibre networks connecting businesses, cloud services and data centres are harder to see, yet they help make those everyday experiences possible. Colt’s upgrades are part of this less visible story.
+
+*Join us on Insider London’s [Silicon Roundabout and Tech City walking tours](https://www.insiderlondon.com/london/educational-tours/silicon-roundabout-and-tech-city-tour/) to explore that changing story. To arrange a tour for your university or business group, contact [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
