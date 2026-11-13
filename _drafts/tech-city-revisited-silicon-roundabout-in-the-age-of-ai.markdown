@@ -37,15 +37,14 @@ Those connections give us a different way of looking at Tech City. We can walk b
 
 Colt’s Joe Scattareggia describes the task as “connecting data, cloud and compute at the scale AI demands.” For a business adding AI to an existing service, that raises practical questions. Can information move quickly enough? Will the connection remain dependable as usage grows? What happens when a route is disrupted?
 
-We’re used to reading the area’s development through new buildings and familiar company names. Colt’s expansion adds another layer to that picture: the investment in connections that allows digital businesses to operate beyond their office walls. Its announcement concerns a global network, and that international reach is precisely what makes it relevant to a neighbourhood built around businesses with ambitions beyond London.
+Colt's investment in connections that allows digital businesses to operate beyond their office walls concerns a global network, and that international reach is precisely what makes it relevant to a neighbourhood built around businesses with ambitions beyond London.
 
 ![pexels-brett-sayles-4373998-Detailed view of fiber optic cables connected in a data center rack, showcasing modern networking technology](/uploads/pexels-brett-sayles-4373998.jpg)
 <em>Photo: Brett Sayles via Pexels.</em>
 
 #### AI across the neighbourhood
 
-We can see the uses for that wider infrastructure in the companies associated with Tech City. Monzo uses [generative AI to interpret customer explanations and supporting documents](https://monzo.com/blog/combining-generative-ai-and-predictive-modelling-to-fight-financial-crime), helping its fraud models and human investigators assess suspicious activity. Wise applies [AI to fraud prevention and customer support](https://owners.wise.com/investor-topics), while Farfetch was already using [machine learning for personalised recommendations](https://blog.vespa.ai/navigating-in-the-new-AI-driven-E-commerce-landscape/) by 2024.
-
+We can see the uses for that wider infrastructure in the companies associated with Tech City. Monzo uses generative AI to interpret [customer explanations and supporting documents](https://monzo.com/blog/combining-generative-ai-and-predictive-modelling-to-fight-financial-crime), helping its fraud models and human investigators assess suspicious activity. Wise applies [AI to fraud prevention and customer support](https://owners.wise.com/investor-topics), while Farfetch was already using [machine learning for personalised recommendations](https://blog.vespa.ai/navigating-in-the-new-AI-driven-E-commerce-landscape/) by 2024.
 
 #### Young users and everyday AI
 
