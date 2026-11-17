@@ -1,6 +1,6 @@
 ---
 title: 'Tech City Revisited: Silicon Roundabout in the Age of AI'
-date: 2026-11-12 09:43:00 Z
+date: 2026-11-17 09:43:00 Z
 categories:
 - Technology
 - Business
