@@ -1,5 +1,5 @@
 ---
-title: How Shanghai Became an Electric car City
+title: 'NIO: How Shanghai Became an Electric Car City'
 date: 2026-11-24 13:32:00 Z
 categories:
 - Business
